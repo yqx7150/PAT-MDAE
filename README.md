@@ -14,22 +14,22 @@ integration accelerates the iteration process, leading to optimal reconstruction
 for in vivo experimental data.   
 
 ## Results on simulation data.
-<div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/fig11.png"> </div>
+<div align="center"><img src="https://github.com/yqx7150/PAT-MDAE/blob/main/Figs/Fig1.jpg"> </div>
 
 Fig. 1. Sparse reconstruction flowchart of PAT based on MAEP method.       
     
 ## Results on simulation data.
-<div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/fig11.png"> </div>
+<div align="center"><img src="https://github.com/yqx7150/PAT-MDAE/blob/main/Figs/Fig6.jpg"> </div>
 
 Fig. 6. The reconstruction results of different methods for simulated blood vessels under different projections.    
     
 ## Results on phantom experiment data.
-<div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/fig11.png"> </div>
+<div align="center"><img src="https://github.com/yqx7150/PAT-MDAE/blob/main/Figs/Fig7.jpg"> </div>
 
 Fig. 7. Reconstruction results of different methods on circular phantomdata under different projections.
 
 ## Results on in vivo experiment data.
-<div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/compare_DDP.PNG"> </div>
+<div align="center"><img src="https://github.com/yqx7150/PAT-MDAE/blob/main/Figs/Fig8.jpg"> </div>
 
 Fig. 8. Reconstruction results of differentmethods on in vivomouse data under different projections.
 
