@@ -1,5 +1,5 @@
 # PAT-MDAE
-Paper: Accelerated model-based iterative reconstruction strategy for sparse-view photoacoustic tomography aided by multi-channel autoencoder priors
+Paper: Accelerated model-based iterative reconstruction strategy for sparse-view photoacoustic tomography aided by multi-channel autoencoder priors      
 Authors: Xianlin Song, Wenhua Zhong, Zilong Li, Shuchong Peng, Hongyu Zhang, Guijun Wang, Jiaqing Dong, Xuan Liu, Xiaoling Xu, Qiegen Liu       
 IEEE Transactions on Medical Imaging, https://ieeexplore.ieee.org/abstract/document/9435335       
 
