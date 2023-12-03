@@ -13,7 +13,7 @@ iterative reconstruction strategy for sparse-view PAT aided by multi-channel aut
 integration accelerates the iteration process, leading to optimal reconstruction outcomes. The performance of the proposed method was evaluated using blood vessels simulation data and experimental data. The results show that the proposed method can achieve superior sparse-view reconstruction with a significant acceleration of iteration. Notably, the proposed method exhibits excellent performance under extremely sparse condition (e.g., 32 projections) compared with the U-Net method, with an improvement of 48% in PSNR and 12% in SSIM 
 for in vivo experimental data.   
 
-## Results on simulation data.
+## Method.
 <div align="center"><img src="https://github.com/yqx7150/PAT-MDAE/blob/main/Figs/Fig1.jpg"> </div>
 
 Fig. 1. Sparse reconstruction flowchart of PAT based on MAEP method.       
