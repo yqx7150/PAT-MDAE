@@ -52,5 +52,4 @@ Fig. 8. Reconstruction results of differentmethods on in vivomouse data under di
 * Sparse-view reconstruction for photoacoustic tomography combining diffusion model with model-based iteration      
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597923001118)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-Diffusion)
 
-* PAT-public-data from NCU     
-[<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-public-data)
+* PAT-public-data from NCU [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-public-data)
