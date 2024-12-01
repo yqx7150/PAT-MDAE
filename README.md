@@ -46,10 +46,10 @@ Fig. 8. Reconstruction results of differentmethods on in vivomouse data under di
 * Unsupervised disentanglement strategy for mitigating artifact in photoacoustic tomography under extremely sparse view      
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000302?via%3Dihub)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-ADN)
       
-  * Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration  
+* Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782831)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MEDAEP)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)  [<font size=5>**[数学图像联盟会议交流PPT]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
 
-  * Highly Undersampled Magnetic Resonance Imaging Reconstruction using Autoencoding Priors  
+* Highly Undersampled Magnetic Resonance Imaging Reconstruction using Autoencoding Priors  
 [<font size=5>**[Paper]**</font>](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/liu2019.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EDAEPRec)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide) [<font size=5>**[数学图像联盟会议交流PPT]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
       
 * Generative model for sparse photoacoustic tomography artifact removal      
