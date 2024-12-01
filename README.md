@@ -34,14 +34,17 @@ Fig. 7. Reconstruction results of different methods on circular phantomdata unde
 Fig. 8. Reconstruction results of differentmethods on in vivomouse data under different projections.
 
 ## Other Related Projects
-* Score-based generative model-assisted information compensation for high-quality limited-view reconstruction in photoacoustic tomography      
-[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000405)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Limited-view-PAT-Diffusion)
-
 * Sparse-view reconstruction for photoacoustic tomography combining diffusion model with model-based iteration      
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597923001118)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-Diffusion)
 
+* Score-based generative model-assisted information compensation for high-quality limited-view reconstruction in photoacoustic tomography      
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000405)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Limited-view-PAT-Diffusion)
+    
 * Ultra-sparse reconstruction for photoacoustic tomography: sinogram domain prior-guided method exploiting enhanced score-based diffusion model      
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000879)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-Sinogram-Diffusion)
+
+* Mean-reverting diffusion model-enhanced acoustic-resolution photoacoustic microscopy for resolution enhancement: Toward optical resolution      
+[<font size=5>**[Paper]**</font>](https://doi.org/10.1142/S1793545824500238)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/https://github.com/yqx7150/PAM-AR2OR)
 
 * Unsupervised disentanglement strategy for mitigating artifact in photoacoustic tomography under extremely sparse view      
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000302?via%3Dihub)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-ADN)
